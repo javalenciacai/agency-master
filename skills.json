@@ -1,0 +1,1260 @@
+﻿{
+    "version":  "1.0.0",
+    "skills":  [
+                   {
+                       "name":  "accessibility-auditor",
+                       "slug":  "accessibility-auditor",
+                       "description":  "Expert accessibility specialist who audits interfaces against WCAG standards, tests with assistive technologies, and ensures inclusive design. Defaults to finding barriers â€” if it\u0027s not tested with a screen reader, it\u0027s not accessible. Use this skill whenever you need a Accessibility Auditor specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/accessibility-auditor/SKILL.md"
+                   },
+                   {
+                       "name":  "accounts-payable-agent",
+                       "slug":  "accounts-payable-agent",
+                       "description":  "Autonomous payment processing specialist that executes vendor payments, contractor invoices, and recurring bills across any payment rail â€” crypto, fiat, stablecoins. Integrates with AI agent workflows via tool calls. Use this skill whenever you need a Accounts Payable Agent specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/accounts-payable-agent/SKILL.md"
+                   },
+                   {
+                       "name":  "account-strategist",
+                       "slug":  "account-strategist",
+                       "description":  "Expert post-sale account strategist specializing in land-and-expand execution, stakeholder mapping, QBR facilitation, and net revenue retention. Turns closed deals into long-term platform relationships through systematic expansion planning and multi-threaded account development. Use this skill whenever you need a Account Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/account-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "ad-creative-strategist",
+                       "slug":  "ad-creative-strategist",
+                       "description":  "Paid media creative specialist focused on ad copywriting, RSA optimization, asset group design, and creative testing frameworks across Google, Meta, Microsoft, and programmatic platforms. Bridges the gap between performance data and persuasive messaging. Use this skill whenever you need a Ad Creative Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/ad-creative-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "agentic-identity-trust-architect",
+                       "slug":  "agentic-identity-trust-architect",
+                       "description":  "Designs identity, authentication, and trust verification systems for autonomous AI agents operating in multi-agent environments. Ensures agents can prove who they are, what they\u0027re authorized to do, and what they actually did. Use this skill whenever you need a Agentic Identity \u0026 Trust Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/agentic-identity-trust-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "agentic-search-optimizer",
+                       "slug":  "agentic-search-optimizer",
+                       "description":  "Expert in WebMCP readiness and agentic task completion â€” audits whether AI agents can actually accomplish tasks on your site (book, buy, register, subscribe), implements WebMCP declarative and imperative patterns, and measures task completion rates across AI browsing agents Use this skill whenever you need a Agentic Search Optimizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/agentic-search-optimizer/SKILL.md"
+                   },
+                   {
+                       "name":  "agents-orchestrator",
+                       "slug":  "agents-orchestrator",
+                       "description":  "Autonomous pipeline manager that orchestrates the entire development workflow. You are the leader of this process. Use this skill whenever you need a Agents Orchestrator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/agents-orchestrator/SKILL.md"
+                   },
+                   {
+                       "name":  "ai-citation-strategist",
+                       "slug":  "ai-citation-strategist",
+                       "description":  "Expert in AI recommendation engine optimization (AEO/GEO) â€” audits brand visibility across ChatGPT, Claude, Gemini, and Perplexity, identifies why competitors get cited instead, and delivers content fixes that improve AI citations Use this skill whenever you need a AI Citation Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/ai-citation-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "ai-data-remediation-engineer",
+                       "slug":  "ai-data-remediation-engineer",
+                       "description":  "\"Specialist in self-healing data pipelines â€” uses air-gapped local SLMs and semantic clustering to automatically detect, classify, and fix data anomalies at scale. Focuses exclusively on the remediation layer: intercepting bad data, generating deterministic fix logic via Ollama, and guaranteeing zero data loss. Not a general data engineer â€” a surgical specialist for when your data is broken and the pipeline can\u0027t stop.\" Use this skill whenever you need a AI Data Remediation Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/ai-data-remediation-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "ai-engineer",
+                       "slug":  "ai-engineer",
+                       "description":  "Expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. Focused on building intelligent features, data pipelines, and AI-powered applications with emphasis on practical, scalable solutions. Use this skill whenever you need a AI Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/ai-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "analytics-reporter",
+                       "slug":  "analytics-reporter",
+                       "description":  "Expert data analyst transforming raw data into actionable business insights. Creates dashboards, performs statistical analysis, tracks KPIs, and provides strategic decision support through data visualization and reporting. Use this skill whenever you need a Analytics Reporter specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/analytics-reporter/SKILL.md"
+                   },
+                   {
+                       "name":  "anthropologist",
+                       "slug":  "anthropologist",
+                       "description":  "Expert in cultural systems, rituals, kinship, belief systems, and ethnographic method â€” builds culturally coherent societies that feel lived-in rather than invented Use this skill whenever you need a Anthropologist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/anthropologist/SKILL.md"
+                   },
+                   {
+                       "name":  "api-tester",
+                       "slug":  "api-tester",
+                       "description":  "Expert API testing specialist focused on comprehensive API validation, performance testing, and quality assurance across all systems and third-party integrations Use this skill whenever you need a API Tester specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/api-tester/SKILL.md"
+                   },
+                   {
+                       "name":  "app-store-optimizer",
+                       "slug":  "app-store-optimizer",
+                       "description":  "Expert app store marketing specialist focused on App Store Optimization (ASO), conversion rate optimization, and app discoverability Use this skill whenever you need a App Store Optimizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/app-store-optimizer/SKILL.md"
+                   },
+                   {
+                       "name":  "automation-governance-architect",
+                       "slug":  "automation-governance-architect",
+                       "description":  "Governance-first architect for business automations (n8n-first) who audits value, risk, and maintainability before implementation. Use this skill whenever you need a Automation Governance Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/automation-governance-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "autonomous-optimization-architect",
+                       "slug":  "autonomous-optimization-architect",
+                       "description":  "Intelligent system governor that continuously shadow-tests APIs for performance while enforcing strict financial and security guardrails against runaway costs. Use this skill whenever you need a Autonomous Optimization Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/autonomous-optimization-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "backend-architect",
+                       "slug":  "backend-architect",
+                       "description":  "Senior backend architect specializing in scalable system design, database architecture, API development, and cloud infrastructure. Builds robust, secure, performant server-side applications and microservices Use this skill whenever you need a Backend Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/backend-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "baidu-seo-specialist",
+                       "slug":  "baidu-seo-specialist",
+                       "description":  "Expert Baidu search optimization specialist focused on Chinese search engine ranking, Baidu ecosystem integration, ICP compliance, Chinese keyword research, and mobile-first indexing for the China market. Use this skill whenever you need a Baidu SEO Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/baidu-seo-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "behavioral-nudge-engine",
+                       "slug":  "behavioral-nudge-engine",
+                       "description":  "Behavioral psychology specialist that adapts software interaction cadences and styles to maximize user motivation and success. Use this skill whenever you need a Behavioral Nudge Engine specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/behavioral-nudge-engine/SKILL.md"
+                   },
+                   {
+                       "name":  "bilibili-content-strategist",
+                       "slug":  "bilibili-content-strategist",
+                       "description":  "Expert Bilibili marketing specialist focused on UPä¸» growth, danmaku culture mastery, Bç«™ algorithm optimization, community building, and branded content strategy for China\u0027s leading video community platform. Use this skill whenever you need a Bilibili Content Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/bilibili-content-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "blockchain-security-auditor",
+                       "slug":  "blockchain-security-auditor",
+                       "description":  "Expert smart contract security auditor specializing in vulnerability detection, formal verification, exploit analysis, and comprehensive audit report writing for DeFi protocols and blockchain applications. Use this skill whenever you need a Blockchain Security Auditor specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/blockchain-security-auditor/SKILL.md"
+                   },
+                   {
+                       "name":  "book-co-author",
+                       "slug":  "book-co-author",
+                       "description":  "Strategic thought-leadership book collaborator for founders, experts, and operators turning voice notes, fragments, and positioning into structured first-person chapters. Use this skill whenever you need a Book Co-Author specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/book-co-author/SKILL.md"
+                   },
+                   {
+                       "name":  "bookkeeper-controller",
+                       "slug":  "bookkeeper-controller",
+                       "description":  "Expert bookkeeper and controller specializing in day-to-day accounting operations, financial reconciliations, month-end close processes, and internal controls. Ensures the accuracy, completeness, and timeliness of financial records while maintaining GAAP compliance and audit readiness at all times. Use this skill whenever you need a Bookkeeper \u0026 Controller specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/bookkeeper-controller/SKILL.md"
+                   },
+                   {
+                       "name":  "brand-guardian",
+                       "slug":  "brand-guardian",
+                       "description":  "Expert brand strategist and guardian specializing in brand identity development, consistency maintenance, and strategic brand positioning Use this skill whenever you need a Brand Guardian specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/brand-guardian/SKILL.md"
+                   },
+                   {
+                       "name":  "carousel-growth-engine",
+                       "slug":  "carousel-growth-engine",
+                       "description":  "Autonomous TikTok and Instagram carousel generation specialist. Analyzes any website URL with Playwright, generates viral 6-slide carousels via Gemini image generation, publishes directly to feed via Upload-Post API with auto trending music, fetches analytics, and iteratively improves through a data-driven learning loop. Use this skill whenever you need a Carousel Growth Engine specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/carousel-growth-engine/SKILL.md"
+                   },
+                   {
+                       "name":  "chief-of-staff",
+                       "slug":  "chief-of-staff",
+                       "description":  "Master coordinator for founders and executives â€” filters noise, owns processes, enforces consistency, routes decisions, and positions outputs for impact so the boss can think clearly. Use this skill whenever you need a Chief of Staff specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/chief-of-staff/SKILL.md"
+                   },
+                   {
+                       "name":  "china-e-commerce-operator",
+                       "slug":  "china-e-commerce-operator",
+                       "description":  "Expert China e-commerce operations specialist covering Taobao, Tmall, Pinduoduo, and JD ecosystems with deep expertise in product listing optimization, live commerce, store operations, 618/Double 11 campaigns, and cross-platform strategy. Use this skill whenever you need a China E-Commerce Operator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/china-e-commerce-operator/SKILL.md"
+                   },
+                   {
+                       "name":  "china-market-localization-strategist",
+                       "slug":  "china-market-localization-strategist",
+                       "description":  "Full-stack China market localization expert who transforms real-time trend signals into executable go-to-market strategies across Douyin, Xiaohongshu, WeChat, Bilibili, and beyond Use this skill whenever you need a China Market Localization Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/china-market-localization-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "civil-engineer",
+                       "slug":  "civil-engineer",
+                       "description":  "Expert civil and structural engineer with global standards coverage â€” Eurocode, DIN, ACI, AISC, ASCE, AS/NZS, CSA, GB, IS, AIJ, and more. Specializes in structural analysis, geotechnical design, construction documentation, building code compliance, and multi-standard international projects. Use this skill whenever you need a Civil Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/civil-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "cms-developer",
+                       "slug":  "cms-developer",
+                       "description":  "Drupal and WordPress specialist for theme development, custom plugins/modules, content architecture, and code-first CMS implementation Use this skill whenever you need a CMS Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/cms-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "codebase-onboarding-engineer",
+                       "slug":  "codebase-onboarding-engineer",
+                       "description":  "Expert developer onboarding specialist who helps new engineers understand unfamiliar codebases fast by reading source code, tracing code paths, and stating only facts grounded in the code. Use this skill whenever you need a Codebase Onboarding Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/codebase-onboarding-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "code-reviewer",
+                       "slug":  "code-reviewer",
+                       "description":  "Expert code reviewer who provides constructive, actionable feedback focused on correctness, maintainability, security, and performance â€” not style preferences. Use this skill whenever you need a Code Reviewer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/code-reviewer/SKILL.md"
+                   },
+                   {
+                       "name":  "compliance-auditor",
+                       "slug":  "compliance-auditor",
+                       "description":  "Expert technical compliance auditor specializing in SOC 2, ISO 27001, HIPAA, and PCI-DSS audits â€” from readiness assessment through evidence collection to certification. Use this skill whenever you need a Compliance Auditor specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/compliance-auditor/SKILL.md"
+                   },
+                   {
+                       "name":  "content-creator",
+                       "slug":  "content-creator",
+                       "description":  "Expert content strategist and creator for multi-platform campaigns. Develops editorial calendars, creates compelling copy, manages brand storytelling, and optimizes content for engagement across all digital channels. Use this skill whenever you need a Content Creator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/content-creator/SKILL.md"
+                   },
+                   {
+                       "name":  "corporate-training-designer",
+                       "slug":  "corporate-training-designer",
+                       "description":  "Expert in enterprise training system design and curriculum development â€” proficient in training needs analysis, instructional design methodology, blended learning program design, internal trainer development, leadership programs, and training effectiveness evaluation and continuous optimization. Use this skill whenever you need a Corporate Training Designer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/corporate-training-designer/SKILL.md"
+                   },
+                   {
+                       "name":  "cross-border-e-commerce-specialist",
+                       "slug":  "cross-border-e-commerce-specialist",
+                       "description":  "Full-funnel cross-border e-commerce strategist covering Amazon, Shopee, Lazada, AliExpress, Temu, and TikTok Shop operations, international logistics and overseas warehousing, compliance and taxation, multilingual listing optimization, brand globalization, and DTC independent site development. Use this skill whenever you need a Cross-Border E-Commerce Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/cross-border-e-commerce-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "cultural-intelligence-strategist",
+                       "slug":  "cultural-intelligence-strategist",
+                       "description":  "CQ specialist that detects invisible exclusion, researches global context, and ensures software resonates authentically across intersectional identities. Use this skill whenever you need a Cultural Intelligence Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/cultural-intelligence-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "customer-service",
+                       "slug":  "customer-service",
+                       "description":  "Friendly, professional customer service specialist for any industry â€” handling inquiries, complaints, account support, FAQs, and seamless escalation with warmth, efficiency, and a genuine commitment to customer satisfaction Use this skill whenever you need a Customer Service specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/customer-service/SKILL.md"
+                   },
+                   {
+                       "name":  "database-optimizer",
+                       "slug":  "database-optimizer",
+                       "description":  "Expert database specialist focusing on schema design, query optimization, indexing strategies, and performance tuning for PostgreSQL, MySQL, and modern databases like Supabase and PlanetScale. Use this skill whenever you need a Database Optimizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/database-optimizer/SKILL.md"
+                   },
+                   {
+                       "name":  "data-consolidation-agent",
+                       "slug":  "data-consolidation-agent",
+                       "description":  "AI agent that consolidates extracted sales data into live reporting dashboards with territory, rep, and pipeline summaries Use this skill whenever you need a Data Consolidation Agent specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/data-consolidation-agent/SKILL.md"
+                   },
+                   {
+                       "name":  "data-engineer",
+                       "slug":  "data-engineer",
+                       "description":  "Expert data engineer specializing in building reliable data pipelines, lakehouse architectures, and scalable data infrastructure. Masters ETL/ELT, Apache Spark, dbt, streaming systems, and cloud data platforms to turn raw data into trusted, analytics-ready assets. Use this skill whenever you need a Data Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/data-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "datalead",
+                       "slug":  "datalead",
+                       "description":  "Data and AI orchestrator. Coordinates data pipelines, ETL, ML models, LLMs, RAG systems, analytics, BI, and data warehousing. Use whenever a task involves data processing, model training, analytics dashboards, or any AI/ML workflow — even if the user just says \u0027analyze this dataset\u0027 or \u0027make a recommendation system\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/datalead/SKILL.md"
+                   },
+                   {
+                       "name":  "deal-strategist",
+                       "slug":  "deal-strategist",
+                       "description":  "Senior deal strategist specializing in MEDDPICC qualification, competitive positioning, and win planning for complex B2B sales cycles. Scores opportunities, exposes pipeline risk, and builds deal strategies that survive forecast review. Use this skill whenever you need a Deal Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/deal-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "developer-advocate",
+                       "slug":  "developer-advocate",
+                       "description":  "Expert developer advocate specializing in building developer communities, creating compelling technical content, optimizing developer experience (DX), and driving platform adoption through authentic engineering engagement. Bridges product and engineering teams with external developers. Use this skill whenever you need a Developer Advocate specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/developer-advocate/SKILL.md"
+                   },
+                   {
+                       "name":  "devops-automator",
+                       "slug":  "devops-automator",
+                       "description":  "Expert DevOps engineer specializing in infrastructure automation, CI/CD pipeline development, and cloud operations Use this skill whenever you need a DevOps Automator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/devops-automator/SKILL.md"
+                   },
+                   {
+                       "name":  "director",
+                       "slug":  "director",
+                       "description":  "Master orchestrator for a complete AI agency. Analyzes any task and delegates to the right domain lead: TechLead, DataLead, QALead, ProductLead, MarketingLead, SalesLead, FinanceLead, or OpsLead. Use this skill as the entry point for ANY multi-step request — technical, creative, business, or operational. Even if the user doesn\u0027t ask for orchestration, activate Director whenever the task could benefit from specialist coordination.",
+                       "category":  "orchestrator",
+                       "path":  "skills/director/SKILL.md"
+                   },
+                   {
+                       "name":  "discovery-coach",
+                       "slug":  "discovery-coach",
+                       "description":  "Coaches sales teams on elite discovery methodology â€” question design, current-state mapping, gap quantification, and call structure that surfaces real buying motivation. Use this skill whenever you need a Discovery Coach specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/discovery-coach/SKILL.md"
+                   },
+                   {
+                       "name":  "document-generator",
+                       "slug":  "document-generator",
+                       "description":  "Expert document creation specialist who generates professional PDF, PPTX, DOCX, and XLSX files using code-based approaches with proper formatting, charts, and data visualization. Use this skill whenever you need a Document Generator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/document-generator/SKILL.md"
+                   },
+                   {
+                       "name":  "douyin-strategist",
+                       "slug":  "douyin-strategist",
+                       "description":  "Short-video marketing expert specializing in the Douyin platform, with deep expertise in recommendation algorithm mechanics, viral video planning, livestream commerce workflows, and full-funnel brand growth through content matrix strategies. Use this skill whenever you need a Douyin Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/douyin-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "email-intelligence-engineer",
+                       "slug":  "email-intelligence-engineer",
+                       "description":  "Expert in extracting structured, reasoning-ready data from raw email threads for AI agents and automation systems Use this skill whenever you need a Email Intelligence Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/email-intelligence-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "embedded-firmware-engineer",
+                       "slug":  "embedded-firmware-engineer",
+                       "description":  "Specialist in bare-metal and RTOS firmware - ESP32/ESP-IDF, PlatformIO, Arduino, ARM Cortex-M, STM32 HAL/LL, Nordic nRF5/nRF Connect SDK, FreeRTOS, Zephyr Use this skill whenever you need a Embedded Firmware Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/embedded-firmware-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "evidence-collector",
+                       "slug":  "evidence-collector",
+                       "description":  "Screenshot-obsessed, fantasy-allergic QA specialist - Default to finding 3-5 issues, requires visual proof for everything Use this skill whenever you need a Evidence Collector specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/evidence-collector/SKILL.md"
+                   },
+                   {
+                       "name":  "executive-summary-generator",
+                       "slug":  "executive-summary-generator",
+                       "description":  "Consultant-grade AI specialist trained to think and communicate like a senior strategy consultant. Transforms complex business inputs into concise, actionable executive summaries using McKinsey SCQA, BCG Pyramid Principle, and Bain frameworks for C-suite decision-makers. Use this skill whenever you need a Executive Summary Generator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/executive-summary-generator/SKILL.md"
+                   },
+                   {
+                       "name":  "experiment-tracker",
+                       "slug":  "experiment-tracker",
+                       "description":  "Expert project manager specializing in experiment design, execution tracking, and data-driven decision making. Focused on managing A/B tests, feature experiments, and hypothesis validation through systematic experimentation and rigorous analysis. Use this skill whenever you need a Experiment Tracker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/experiment-tracker/SKILL.md"
+                   },
+                   {
+                       "name":  "feedback-synthesizer",
+                       "slug":  "feedback-synthesizer",
+                       "description":  "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Transforms qualitative feedback into quantitative priorities and strategic recommendations. Use this skill whenever you need a Feedback Synthesizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/feedback-synthesizer/SKILL.md"
+                   },
+                   {
+                       "name":  "feishu-integration-developer",
+                       "slug":  "feishu-integration-developer",
+                       "description":  "Full-stack integration expert specializing in the Feishu (Lark) Open Platform â€” proficient in Feishu bots, mini programs, approval workflows, Bitable (multidimensional spreadsheets), interactive message cards, Webhooks, SSO authentication, and workflow automation, building enterprise-grade collaboration and automation solutions within the Feishu ecosystem. Use this skill whenever you need a Feishu Integration Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/feishu-integration-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "filament-optimization-specialist",
+                       "slug":  "filament-optimization-specialist",
+                       "description":  "Expert in restructuring and optimizing Filament PHP admin interfaces for maximum usability and efficiency. Focuses on impactful structural changes â€” not just cosmetic tweaks. Use this skill whenever you need a Filament Optimization Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/filament-optimization-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "financelead",
+                       "slug":  "financelead",
+                       "description":  "Finance and legal orchestrator. Coordinates financial modeling, accounting, compliance, investment analysis, tax planning, and contract review. Use whenever a task involves money, financial projections, legal documents, or regulatory compliance — even if the user just says \u0027model our runway\u0027 or \u0027review this contract\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/financelead/SKILL.md"
+                   },
+                   {
+                       "name":  "finance-tracker",
+                       "slug":  "finance-tracker",
+                       "description":  "Expert financial analyst and controller specializing in financial planning, budget management, and business performance analysis. Maintains financial health, optimizes cash flow, and provides strategic financial insights for business growth. Use this skill whenever you need a Finance Tracker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/finance-tracker/SKILL.md"
+                   },
+                   {
+                       "name":  "financial-analyst",
+                       "slug":  "financial-analyst",
+                       "description":  "Expert financial analyst specializing in financial modeling, forecasting, scenario analysis, and data-driven decision support. Transforms raw financial data into actionable business intelligence that drives strategic planning, investment decisions, and operational optimization. Use this skill whenever you need a Financial Analyst specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/financial-analyst/SKILL.md"
+                   },
+                   {
+                       "name":  "fp-a-analyst",
+                       "slug":  "fp-a-analyst",
+                       "description":  "Expert Financial Planning \u0026 Analysis (FP\u0026A) analyst specializing in budgeting, variance analysis, financial planning, rolling forecasts, and strategic decision support. Bridges the gap between the numbers and the business narrative to drive operational performance and strategic resource allocation. Use this skill whenever you need a FP\u0026A Analyst specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/fp-a-analyst/SKILL.md"
+                   },
+                   {
+                       "name":  "french-consulting-market-navigator",
+                       "slug":  "french-consulting-market-navigator",
+                       "description":  "Navigate the French ESN/SI freelance ecosystem â€” margin models, platform mechanics (Malt, collective.work), portage salarial, rate positioning, and payment cycle realities Use this skill whenever you need a French Consulting Market Navigator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/french-consulting-market-navigator/SKILL.md"
+                   },
+                   {
+                       "name":  "frontend-developer",
+                       "slug":  "frontend-developer",
+                       "description":  "Expert frontend developer specializing in modern web technologies, React/Vue/Angular frameworks, UI implementation, and performance optimization Use this skill whenever you need a Frontend Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/frontend-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "game-audio-engineer",
+                       "slug":  "game-audio-engineer",
+                       "description":  "Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines Use this skill whenever you need a Game Audio Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "game-development",
+                       "path":  "skills/game-audio-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "game-designer",
+                       "slug":  "game-designer",
+                       "description":  "Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres Use this skill whenever you need a Game Designer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "game-development",
+                       "path":  "skills/game-designer/SKILL.md"
+                   },
+                   {
+                       "name":  "geographer",
+                       "slug":  "geographer",
+                       "description":  "Expert in physical and human geography, climate systems, cartography, and spatial analysis â€” builds geographically coherent worlds where terrain, climate, resources, and settlement patterns make scientific sense Use this skill whenever you need a Geographer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/geographer/SKILL.md"
+                   },
+                   {
+                       "name":  "git-workflow-master",
+                       "slug":  "git-workflow-master",
+                       "description":  "Expert in Git workflows, branching strategies, and version control best practices including conventional commits, rebasing, worktrees, and CI-friendly branch management. Use this skill whenever you need a Git Workflow Master specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/git-workflow-master/SKILL.md"
+                   },
+                   {
+                       "name":  "government-digital-presales-consultant",
+                       "slug":  "government-digital-presales-consultant",
+                       "description":  "Presales expert for China\u0027s government digital transformation market (ToG), proficient in policy interpretation, solution design, bid document preparation, POC validation, compliance requirements (classified protection/cryptographic assessment/Xinchuang domestic IT), and stakeholder management â€” helping technical teams efficiently win government IT projects. Use this skill whenever you need a Government Digital Presales Consultant specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/government-digital-presales-consultant/SKILL.md"
+                   },
+                   {
+                       "name":  "growth-hacker",
+                       "slug":  "growth-hacker",
+                       "description":  "Expert growth strategist specializing in rapid user acquisition through data-driven experimentation. Develops viral loops, optimizes conversion funnels, and finds scalable growth channels for exponential business growth. Use this skill whenever you need a Growth Hacker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/growth-hacker/SKILL.md"
+                   },
+                   {
+                       "name":  "healthcare-customer-service",
+                       "slug":  "healthcare-customer-service",
+                       "description":  "Empathetic healthcare customer service specialist for patient support, billing inquiries, appointment management, insurance questions, complaint resolution, and seamless escalation to clinical or administrative staff Use this skill whenever you need a Healthcare Customer Service specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/healthcare-customer-service/SKILL.md"
+                   },
+                   {
+                       "name":  "healthcare-marketing-compliance-specialist",
+                       "slug":  "healthcare-marketing-compliance-specialist",
+                       "description":  "Expert in healthcare marketing compliance in China, proficient in the Advertising Law, Medical Advertisement Management Measures, Drug Administration Law, and related regulations â€” covering pharmaceuticals, medical devices, medical aesthetics, health supplements, and internet healthcare across content review, risk control, platform rule interpretation, and patient privacy protection, helping enterprises conduct effective health marketing within legal boundaries. Use this skill whenever you need a Healthcare Marketing Compliance Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/healthcare-marketing-compliance-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "historian",
+                       "slug":  "historian",
+                       "description":  "Expert in historical analysis, periodization, material culture, and historiography â€” validates historical coherence and enriches settings with authentic period detail grounded in primary and secondary sources Use this skill whenever you need a Historian specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/historian/SKILL.md"
+                   },
+                   {
+                       "name":  "hospitality-guest-services",
+                       "slug":  "hospitality-guest-services",
+                       "description":  "Comprehensive hospitality guest services specialist for hotels, resorts, restaurants, and event venues â€” covering reservations, check-in/check-out, concierge services, guest complaint resolution, loyalty program management, and post-stay follow-up to deliver exceptional guest experiences that drive loyalty and revenue Use this skill whenever you need a Hospitality Guest Services specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/hospitality-guest-services/SKILL.md"
+                   },
+                   {
+                       "name":  "hr-onboarding",
+                       "slug":  "hr-onboarding",
+                       "description":  "Comprehensive HR onboarding specialist for employee orientation, documentation management, compliance tracking, benefits enrollment, culture integration, and new hire support â€” delivering a seamless first-day-to-first-year experience that drives retention and productivity Use this skill whenever you need a HR Onboarding specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/hr-onboarding/SKILL.md"
+                   },
+                   {
+                       "name":  "identity-graph-operator",
+                       "slug":  "identity-graph-operator",
+                       "description":  "Operates a shared identity graph that multiple AI agents resolve against. Ensures every agent in a multi-agent system gets the same canonical answer for \"who is this entity?\" - deterministically, even under concurrent writes. Use this skill whenever you need a Identity Graph Operator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/identity-graph-operator/SKILL.md"
+                   },
+                   {
+                       "name":  "image-prompt-engineer",
+                       "slug":  "image-prompt-engineer",
+                       "description":  "Expert photography prompt engineer specializing in crafting detailed, evocative prompts for AI image generation. Masters the art of translating visual concepts into precise language that produces stunning, professional-quality photography through generative AI tools. Use this skill whenever you need a Image Prompt Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/image-prompt-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "incident-response-commander",
+                       "slug":  "incident-response-commander",
+                       "description":  "Expert incident commander specializing in production incident management, structured response coordination, post-mortem facilitation, SLO/SLI tracking, and on-call process design for reliable engineering organizations. Use this skill whenever you need a Incident Response Commander specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/incident-response-commander/SKILL.md"
+                   },
+                   {
+                       "name":  "inclusive-visuals-specialist",
+                       "slug":  "inclusive-visuals-specialist",
+                       "description":  "Representation expert who defeats systemic AI biases to generate culturally accurate, affirming, and non-stereotypical images and video. Use this skill whenever you need a Inclusive Visuals Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/inclusive-visuals-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "infrastructure-maintainer",
+                       "slug":  "infrastructure-maintainer",
+                       "description":  "Expert infrastructure specialist focused on system reliability, performance optimization, and technical operations management. Maintains robust, scalable infrastructure supporting business operations with security, performance, and cost efficiency. Use this skill whenever you need a Infrastructure Maintainer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/infrastructure-maintainer/SKILL.md"
+                   },
+                   {
+                       "name":  "instagram-curator",
+                       "slug":  "instagram-curator",
+                       "description":  "Expert Instagram marketing specialist focused on visual storytelling, community building, and multi-format content optimization. Masters aesthetic development and drives meaningful engagement. Use this skill whenever you need a Instagram Curator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/instagram-curator/SKILL.md"
+                   },
+                   {
+                       "name":  "investment-researcher",
+                       "slug":  "investment-researcher",
+                       "description":  "Expert investment researcher specializing in market research, due diligence, portfolio analysis, and asset valuation. Conducts rigorous fundamental and quantitative analysis to identify investment opportunities, assess risks, and support data-driven portfolio decisions across public equities, private markets, and alternative assets. Use this skill whenever you need a Investment Researcher specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/investment-researcher/SKILL.md"
+                   },
+                   {
+                       "name":  "jira-workflow-steward",
+                       "slug":  "jira-workflow-steward",
+                       "description":  "Expert delivery operations specialist who enforces Jira-linked Git workflows, traceable commits, structured pull requests, and release-safe branch strategy across software teams. Use this skill whenever you need a Jira Workflow Steward specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/jira-workflow-steward/SKILL.md"
+                   },
+                   {
+                       "name":  "korean-business-navigator",
+                       "slug":  "korean-business-navigator",
+                       "description":  "Korean business culture for foreign professionals â€” í’ˆì˜ decision process, nunchi reading, KakaoTalk business etiquette, hierarchy navigation, and relationship-first deal mechanics Use this skill whenever you need a Korean Business Navigator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/korean-business-navigator/SKILL.md"
+                   },
+                   {
+                       "name":  "kuaishou-strategist",
+                       "slug":  "kuaishou-strategist",
+                       "description":  "Expert Kuaishou marketing strategist specializing in short-video content for China\u0027s lower-tier city markets, live commerce operations, community trust building, and grassroots audience growth on å¿«æ‰‹. Use this skill whenever you need a Kuaishou Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/kuaishou-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "language-translator",
+                       "slug":  "language-translator",
+                       "description":  "Real-time Spanish â†” English translation specialist with cultural context, regional dialect awareness, travel phrase guidance, and tone-appropriate communication for everyday, business, and emergency situations Use this skill whenever you need a Language Translator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/language-translator/SKILL.md"
+                   },
+                   {
+                       "name":  "legal-billing-time-tracking",
+                       "slug":  "legal-billing-time-tracking",
+                       "description":  "Comprehensive legal billing and time tracking specialist for accurate time capture, invoice generation, billing narrative writing, collections management, trust account compliance, and billing analysis â€” maximizing revenue recovery while maintaining client relationships and ethical compliance across any firm size or billing model Use this skill whenever you need a Legal Billing \u0026 Time Tracking specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/legal-billing-time-tracking/SKILL.md"
+                   },
+                   {
+                       "name":  "legal-client-intake",
+                       "slug":  "legal-client-intake",
+                       "description":  "Comprehensive legal client intake specialist for qualifying prospects, collecting case information, scheduling consultations, managing conflict checks, and delivering attorney-ready intake summaries across any practice area and firm size Use this skill whenever you need a Legal Client Intake specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/legal-client-intake/SKILL.md"
+                   },
+                   {
+                       "name":  "legal-compliance-checker",
+                       "slug":  "legal-compliance-checker",
+                       "description":  "Expert legal and compliance specialist ensuring business operations, data handling, and content creation comply with relevant laws, regulations, and industry standards across multiple jurisdictions. Use this skill whenever you need a Legal Compliance Checker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/legal-compliance-checker/SKILL.md"
+                   },
+                   {
+                       "name":  "legal-document-review",
+                       "slug":  "legal-document-review",
+                       "description":  "Comprehensive legal document review specialist for contracts, litigation documents, and real estate agreements â€” summarizing documents, flagging risk clauses, comparing contract versions, and checking compliance across any law firm size or practice area Use this skill whenever you need a Legal Document Review specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/legal-document-review/SKILL.md"
+                   },
+                   {
+                       "name":  "level-designer",
+                       "slug":  "level-designer",
+                       "description":  "Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines Use this skill whenever you need a Level Designer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "game-development",
+                       "path":  "skills/level-designer/SKILL.md"
+                   },
+                   {
+                       "name":  "linkedin-content-creator",
+                       "slug":  "linkedin-content-creator",
+                       "description":  "Expert LinkedIn content strategist focused on thought leadership, personal brand building, and high-engagement professional content. Masters LinkedIn\u0027s algorithm and culture to drive inbound opportunities for founders, job seekers, developers, and anyone building a professional presence. Use this skill whenever you need a LinkedIn Content Creator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/linkedin-content-creator/SKILL.md"
+                   },
+                   {
+                       "name":  "livestream-commerce-coach",
+                       "slug":  "livestream-commerce-coach",
+                       "description":  "Veteran livestream e-commerce coach specializing in host training and live room operations across Douyin, Kuaishou, Taobao Live, and Channels, covering script design, product sequencing, paid-vs-organic traffic balancing, conversion closing techniques, and real-time data-driven optimization. Use this skill whenever you need a Livestream Commerce Coach specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/livestream-commerce-coach/SKILL.md"
+                   },
+                   {
+                       "name":  "loan-officer-assistant",
+                       "slug":  "loan-officer-assistant",
+                       "description":  "Comprehensive loan officer assistant for mortgage and lending professionals â€” covering borrower intake, pre-qualification, document collection, pipeline management, compliance tracking, rate quoting, and closing coordination across residential, commercial, and consumer lending Use this skill whenever you need a Loan Officer Assistant specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/loan-officer-assistant/SKILL.md"
+                   },
+                   {
+                       "name":  "lsp-index-engineer",
+                       "slug":  "lsp-index-engineer",
+                       "description":  "Language Server Protocol specialist building unified code intelligence systems through LSP client orchestration and semantic indexing Use this skill whenever you need a LSP/Index Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/lsp-index-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "macos-spatial-metal-engineer",
+                       "slug":  "macos-spatial-metal-engineer",
+                       "description":  "Native Swift and Metal specialist building high-performance 3D rendering systems and spatial computing experiences for macOS and Vision Pro Use this skill whenever you need a macOS Spatial/Metal Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/macos-spatial-metal-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "marketinglead",
+                       "slug":  "marketinglead",
+                       "description":  "Marketing orchestrator. Coordinates content strategy, social media, SEO, growth hacking, paid media, email campaigns, China market, and e-commerce. Use whenever a task involves reaching audiences, creating content, or driving growth — even if the user just says \u0027write a blog post\u0027 or \u0027plan our launch\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/marketinglead/SKILL.md"
+                   },
+                   {
+                       "name":  "mcp-builder",
+                       "slug":  "mcp-builder",
+                       "description":  "Expert Model Context Protocol developer who designs, builds, and tests MCP servers that extend AI agent capabilities with custom tools, resources, and prompts. Use this skill whenever you need a MCP Builder specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/mcp-builder/SKILL.md"
+                   },
+                   {
+                       "name":  "minimal-change-engineer",
+                       "slug":  "minimal-change-engineer",
+                       "description":  "Engineering specialist focused on minimum-viable diffs â€” fixes only what was asked, refuses scope creep, prefers three similar lines over a premature abstraction. The discipline that prevents bug-fix PRs from becoming refactor avalanches. Use this skill whenever you need a Minimal Change Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/minimal-change-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "mobile-app-builder",
+                       "slug":  "mobile-app-builder",
+                       "description":  "Specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks Use this skill whenever you need a Mobile App Builder specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/mobile-app-builder/SKILL.md"
+                   },
+                   {
+                       "name":  "model-qa-specialist",
+                       "slug":  "model-qa-specialist",
+                       "description":  "Independent model QA expert who audits ML and statistical models end-to-end - from documentation review and data reconstruction to replication, calibration testing, interpretability analysis, performance monitoring, and audit-grade reporting. Use this skill whenever you need a Model QA Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  [
+                                        "data",
+                                        "qa-security"
+                                    ],
+                       "path":  "skills/model-qa-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "narrative-designer",
+                       "slug":  "narrative-designer",
+                       "description":  "Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines Use this skill whenever you need a Narrative Designer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "game-development",
+                       "path":  "skills/narrative-designer/SKILL.md"
+                   },
+                   {
+                       "name":  "narratologist",
+                       "slug":  "narratologist",
+                       "description":  "Expert in narrative theory, story structure, character arcs, and literary analysis â€” grounds advice in established frameworks from Propp to Campbell to modern narratology Use this skill whenever you need a Narratologist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/narratologist/SKILL.md"
+                   },
+                   {
+                       "name":  "opslead",
+                       "slug":  "opslead",
+                       "description":  "Operations and specialized domains orchestrator. Coordinates customer support, HR, IT operations, healthcare, real estate, education, and other specialized fields. Use whenever a task involves running day-to-day operations, supporting customers, managing people, or working in a specialized domain — even if the user just says \u0027handle this ticket\u0027 or \u0027help with onboarding\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/opslead/SKILL.md"
+                   },
+                   {
+                       "name":  "outbound-strategist",
+                       "slug":  "outbound-strategist",
+                       "description":  "Signal-based outbound specialist who designs multi-channel prospecting sequences, defines ICPs, and builds pipeline through research-driven personalization â€” not volume. Use this skill whenever you need a Outbound Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/outbound-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "paid-media-auditor",
+                       "slug":  "paid-media-auditor",
+                       "description":  "Comprehensive paid media auditor who systematically evaluates Google Ads, Microsoft Ads, and Meta accounts across 200+ checkpoints spanning account structure, tracking, bidding, creative, audiences, and competitive positioning. Produces actionable audit reports with prioritized recommendations and projected impact. Use this skill whenever you need a Paid Media Auditor specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "paid-media",
+                       "path":  "skills/paid-media-auditor/SKILL.md"
+                   },
+                   {
+                       "name":  "paid-social-strategist",
+                       "slug":  "paid-social-strategist",
+                       "description":  "Cross-platform paid social advertising specialist covering Meta (Facebook/Instagram), LinkedIn, TikTok, Pinterest, X, and Snapchat. Designs full-funnel social ad programs from prospecting through retargeting with platform-specific creative and audience strategies. Use this skill whenever you need a Paid Social Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "paid-media",
+                       "path":  "skills/paid-social-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "performance-benchmarker",
+                       "slug":  "performance-benchmarker",
+                       "description":  "Expert performance testing and optimization specialist focused on measuring, analyzing, and improving system performance across all applications and infrastructure Use this skill whenever you need a Performance Benchmarker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/performance-benchmarker/SKILL.md"
+                   },
+                   {
+                       "name":  "pipeline-analyst",
+                       "slug":  "pipeline-analyst",
+                       "description":  "Revenue operations analyst specializing in pipeline health diagnostics, deal velocity analysis, forecast accuracy, and data-driven sales coaching. Turns CRM data into actionable pipeline intelligence that surfaces risks before they become missed quarters. Use this skill whenever you need a Pipeline Analyst specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "data",
+                       "path":  "skills/pipeline-analyst/SKILL.md"
+                   },
+                   {
+                       "name":  "podcast-strategist",
+                       "slug":  "podcast-strategist",
+                       "description":  "Content strategy and operations expert for the Chinese podcast market, with deep expertise in Xiaoyuzhou, Ximalaya, and other major audio platforms, covering show positioning, audio production, audience growth, multi-platform distribution, and monetization to help podcast creators build sticky audio content brands. Use this skill whenever you need a Podcast Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/podcast-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "ppc-campaign-strategist",
+                       "slug":  "ppc-campaign-strategist",
+                       "description":  "Senior paid media strategist specializing in large-scale search, shopping, and performance max campaign architecture across Google, Microsoft, and Amazon ad platforms. Designs account structures, budget allocation frameworks, and bidding strategies that scale from $10K to $10M+ monthly spend. Use this skill whenever you need a PPC Campaign Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "paid-media",
+                       "path":  "skills/ppc-campaign-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "private-domain-operator",
+                       "slug":  "private-domain-operator",
+                       "description":  "Expert in building enterprise WeChat (WeCom) private domain ecosystems, with deep expertise in SCRM systems, segmented community operations, Mini Program commerce integration, user lifecycle management, and full-funnel conversion optimization. Use this skill whenever you need a Private Domain Operator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/private-domain-operator/SKILL.md"
+                   },
+                   {
+                       "name":  "productlead",
+                       "slug":  "productlead",
+                       "description":  "Product and design orchestrator. Coordinates product strategy, UX/UI design, user research, roadmaps, sprint planning, and project management. Use whenever a task involves defining what to build, designing interfaces, or managing a product lifecycle — even if the user just says \u0027plan this feature\u0027 or \u0027design a screen\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/productlead/SKILL.md"
+                   },
+                   {
+                       "name":  "product-manager",
+                       "slug":  "product-manager",
+                       "description":  "Holistic product leader who owns the full product lifecycle â€” from discovery and strategy through roadmap, stakeholder alignment, go-to-market, and outcome measurement. Bridges business goals, user needs, and technical reality to ship the right thing at the right time. Use this skill whenever you need a Product Manager specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/product-manager/SKILL.md"
+                   },
+                   {
+                       "name":  "programmatic-display-buyer",
+                       "slug":  "programmatic-display-buyer",
+                       "description":  "Display advertising and programmatic media buying specialist covering managed placements, Google Display Network, DV360, trade desk platforms, partner media (newsletters, sponsored content), and ABM display strategies via platforms like Demandbase and 6Sense. Use this skill whenever you need a Programmatic \u0026 Display Buyer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "paid-media",
+                       "path":  "skills/programmatic-display-buyer/SKILL.md"
+                   },
+                   {
+                       "name":  "project-shepherd",
+                       "slug":  "project-shepherd",
+                       "description":  "Expert project manager specializing in cross-functional project coordination, timeline management, and stakeholder alignment. Focused on shepherding projects from conception to completion while managing resources, risks, and communications across multiple teams and departments. Use this skill whenever you need a Project Shepherd specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/project-shepherd/SKILL.md"
+                   },
+                   {
+                       "name":  "proposal-strategist",
+                       "slug":  "proposal-strategist",
+                       "description":  "Strategic proposal architect who transforms RFPs and sales opportunities into compelling win narratives. Specializes in win theme development, competitive positioning, executive summary craft, and building proposals that persuade rather than merely comply. Use this skill whenever you need a Proposal Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/proposal-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "psychologist",
+                       "slug":  "psychologist",
+                       "description":  "Expert in human behavior, personality theory, motivation, and cognitive patterns â€” builds psychologically credible characters and interactions grounded in clinical and research frameworks Use this skill whenever you need a Psychologist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/psychologist/SKILL.md"
+                   },
+                   {
+                       "name":  "qalead",
+                       "slug":  "qalead",
+                       "description":  "Quality and security orchestrator. Coordinates testing strategies, QA automation, security audits, accessibility reviews, performance benchmarking, and compliance checks. Use whenever a task involves testing plans, security reviews, or ensuring software quality — even if the user just says \u0027make sure this works\u0027 or \u0027check for vulnerabilities\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/qalead/SKILL.md"
+                   },
+                   {
+                       "name":  "rapid-prototyper",
+                       "slug":  "rapid-prototyper",
+                       "description":  "Specialized in ultra-fast proof-of-concept development and MVP creation using efficient tools and frameworks Use this skill whenever you need a Rapid Prototyper specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  [
+                                        "engineering",
+                                        "product"
+                                    ],
+                       "path":  "skills/rapid-prototyper/SKILL.md"
+                   },
+                   {
+                       "name":  "real-estate-buyer-seller",
+                       "slug":  "real-estate-buyer-seller",
+                       "description":  "Comprehensive real estate agent assistant for buyer representation, seller representation, listing management, offer negotiation, transaction coordination, and closing support â€” delivering a world-class client experience from first showing to final closing across residential and investment real estate Use this skill whenever you need a Real Estate Buyer \u0026 Seller specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/real-estate-buyer-seller/SKILL.md"
+                   },
+                   {
+                       "name":  "reality-checker",
+                       "slug":  "reality-checker",
+                       "description":  "Stops fantasy approvals, evidence-based certification - Default to \"NEEDS WORK\", requires overwhelming proof for production readiness Use this skill whenever you need a Reality Checker specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/reality-checker/SKILL.md"
+                   },
+                   {
+                       "name":  "recruitment-specialist",
+                       "slug":  "recruitment-specialist",
+                       "description":  "Expert recruitment operations and talent acquisition specialist â€” skilled in China\u0027s major hiring platforms, talent assessment frameworks, and labor law compliance. Helps companies efficiently attract, screen, and retain top talent while building a competitive employer brand. Use this skill whenever you need a Recruitment Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/recruitment-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "reddit-community-builder",
+                       "slug":  "reddit-community-builder",
+                       "description":  "Expert Reddit marketing specialist focused on authentic community engagement, value-driven content creation, and long-term relationship building. Masters Reddit culture navigation. Use this skill whenever you need a Reddit Community Builder specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/reddit-community-builder/SKILL.md"
+                   },
+                   {
+                       "name":  "report-distribution-agent",
+                       "slug":  "report-distribution-agent",
+                       "description":  "AI agent that automates distribution of consolidated sales reports to representatives based on territorial parameters Use this skill whenever you need a Report Distribution Agent specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/report-distribution-agent/SKILL.md"
+                   },
+                   {
+                       "name":  "retail-customer-returns",
+                       "slug":  "retail-customer-returns",
+                       "description":  "Comprehensive retail customer returns specialist for processing returns, exchanges, and refunds across in-store, online, and omnichannel retail â€” handling policy enforcement, fraud prevention, customer retention, vendor returns, and returns analytics to maximize recovery while preserving customer loyalty Use this skill whenever you need a Retail Customer Returns specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/retail-customer-returns/SKILL.md"
+                   },
+                   {
+                       "name":  "sales-coach",
+                       "slug":  "sales-coach",
+                       "description":  "Expert sales coaching specialist focused on rep development, pipeline review facilitation, call coaching, deal strategy, and forecast accuracy. Makes every rep and every deal better through structured coaching methodology and behavioral feedback. Use this skill whenever you need a Sales Coach specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/sales-coach/SKILL.md"
+                   },
+                   {
+                       "name":  "sales-data-extraction-agent",
+                       "slug":  "sales-data-extraction-agent",
+                       "description":  "AI agent specialized in monitoring Excel files and extracting key sales metrics (MTD, YTD, Year End) for internal live reporting Use this skill whenever you need a Sales Data Extraction Agent specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/sales-data-extraction-agent/SKILL.md"
+                   },
+                   {
+                       "name":  "sales-engineer",
+                       "slug":  "sales-engineer",
+                       "description":  "Senior pre-sales engineer specializing in technical discovery, demo engineering, POC scoping, competitive battlecards, and bridging product capabilities to business outcomes. Wins the technical decision so the deal can close. Use this skill whenever you need a Sales Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/sales-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "salesforce-architect",
+                       "slug":  "salesforce-architect",
+                       "description":  "Solution architecture for Salesforce platform â€” multi-cloud design, integration patterns, governor limits, deployment strategy, and data model governance for enterprise-scale orgs Use this skill whenever you need a Salesforce Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/salesforce-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "saleslead",
+                       "slug":  "saleslead",
+                       "description":  "Sales and business development orchestrator. Coordinates sales strategy, prospecting, proposals, deal closing, CRM, and partnerships. Use whenever a task involves selling, pitching, or growing revenue — even if the user just says \u0027find leads\u0027 or \u0027write a proposal\u0027.",
+                       "category":  [
+                                        "orchestrator",
+                                        "sales"
+                                    ],
+                       "path":  "skills/saleslead/SKILL.md"
+                   },
+                   {
+                       "name":  "sales-outreach",
+                       "slug":  "sales-outreach",
+                       "description":  "Consultative B2B sales outreach specialist for cold prospecting, lead follow-up, objection handling, proposal writing, and pipeline management â€” combining data-driven targeting with genuine relationship-building to open doors and close deals Use this skill whenever you need a Sales Outreach specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "sales",
+                       "path":  "skills/sales-outreach/SKILL.md"
+                   },
+                   {
+                       "name":  "search-query-analyst",
+                       "slug":  "search-query-analyst",
+                       "description":  "Specialist in search term analysis, negative keyword architecture, and query-to-intent mapping. Turns raw search query data into actionable optimizations that eliminate waste and amplify high-intent traffic across paid search accounts. Use this skill whenever you need a Search Query Analyst specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/search-query-analyst/SKILL.md"
+                   },
+                   {
+                       "name":  "security-engineer",
+                       "slug":  "security-engineer",
+                       "description":  "Expert application security engineer specializing in threat modeling, vulnerability assessment, secure code review, security architecture design, and incident response for modern web, API, and cloud-native applications. Use this skill whenever you need a Security Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/security-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "senior-developer",
+                       "slug":  "senior-developer",
+                       "description":  "Premium implementation specialist - Masters Laravel/Livewire/FluxUI, advanced CSS, Three.js integration Use this skill whenever you need a Senior Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/senior-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "senior-project-manager",
+                       "slug":  "senior-project-manager",
+                       "description":  "Converts specs to tasks and remembers previous projects. Focused on realistic scope, no background processes, exact spec requirements Use this skill whenever you need a Senior Project Manager specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/senior-project-manager/SKILL.md"
+                   },
+                   {
+                       "name":  "seo-specialist",
+                       "slug":  "seo-specialist",
+                       "description":  "Expert search engine optimization strategist specializing in technical SEO, content optimization, link authority building, and organic search growth. Drives sustainable traffic through data-driven search strategies. Use this skill whenever you need a SEO Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/seo-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "short-video-editing-coach",
+                       "slug":  "short-video-editing-coach",
+                       "description":  "Hands-on short-video editing coach covering the full post-production pipeline, with mastery of CapCut Pro, Premiere Pro, DaVinci Resolve, and Final Cut Pro across composition and camera language, color grading, audio engineering, motion graphics and VFX, subtitle design, multi-platform export optimization, editing workflow efficiency, and AI-assisted editing. Use this skill whenever you need a Short-Video Editing Coach specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/short-video-editing-coach/SKILL.md"
+                   },
+                   {
+                       "name":  "social-media-strategist",
+                       "slug":  "social-media-strategist",
+                       "description":  "Expert social media strategist for LinkedIn, Twitter, and professional platforms. Creates cross-platform campaigns, builds communities, manages real-time engagement, and develops thought leadership strategies. Use this skill whenever you need a Social Media Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/social-media-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "software-architect",
+                       "slug":  "software-architect",
+                       "description":  "Expert software architect specializing in system design, domain-driven design, architectural patterns, and technical decision-making for scalable, maintainable systems. Use this skill whenever you need a Software Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/software-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "solidity-smart-contract-engineer",
+                       "slug":  "solidity-smart-contract-engineer",
+                       "description":  "Expert Solidity developer specializing in EVM smart contract architecture, gas optimization, upgradeable proxy patterns, DeFi protocol development, and security-first contract design across Ethereum and L2 chains. Use this skill whenever you need a Solidity Smart Contract Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/solidity-smart-contract-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "sprint-prioritizer",
+                       "slug":  "sprint-prioritizer",
+                       "description":  "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven prioritization frameworks. Use this skill whenever you need a Sprint Prioritizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/sprint-prioritizer/SKILL.md"
+                   },
+                   {
+                       "name":  "sre-site-reliability-engineer",
+                       "slug":  "sre-site-reliability-engineer",
+                       "description":  "Expert site reliability engineer specializing in SLOs, error budgets, observability, chaos engineering, and toil reduction for production systems at scale. Use this skill whenever you need a SRE (Site Reliability Engineer) specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/sre-site-reliability-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "studio-operations",
+                       "slug":  "studio-operations",
+                       "description":  "Expert operations manager specializing in day-to-day studio efficiency, process optimization, and resource coordination. Focused on ensuring smooth operations, maintaining productivity standards, and supporting all teams with the tools and processes needed for success. Use this skill whenever you need a Studio Operations specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/studio-operations/SKILL.md"
+                   },
+                   {
+                       "name":  "studio-producer",
+                       "slug":  "studio-producer",
+                       "description":  "Senior strategic leader specializing in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. Focused on aligning creative vision with business objectives while managing complex cross-functional initiatives and ensuring optimal studio operations. Use this skill whenever you need a Studio Producer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/studio-producer/SKILL.md"
+                   },
+                   {
+                       "name":  "study-abroad-advisor",
+                       "slug":  "study-abroad-advisor",
+                       "description":  "Full-spectrum study abroad planning expert covering the US, UK, Canada, Australia, Europe, Hong Kong, and Singapore â€” proficient in undergraduate, master\u0027s, and PhD application strategy, school selection, essay coaching, profile enhancement, standardized test planning, visa preparation, and overseas life adaptation, helping Chinese students craft personalized end-to-end study abroad plans. Use this skill whenever you need a Study Abroad Advisor specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/study-abroad-advisor/SKILL.md"
+                   },
+                   {
+                       "name":  "supply-chain-strategist",
+                       "slug":  "supply-chain-strategist",
+                       "description":  "Expert supply chain management and procurement strategy specialist â€” skilled in supplier development, strategic sourcing, quality control, and supply chain digitalization. Grounded in China\u0027s manufacturing ecosystem, helps companies build efficient, resilient, and sustainable supply chains. Use this skill whenever you need a Supply Chain Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/supply-chain-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "support-responder",
+                       "slug":  "support-responder",
+                       "description":  "Expert customer support specialist delivering exceptional customer service, issue resolution, and user experience optimization. Specializes in multi-channel support, proactive customer care, and turning support interactions into positive brand experiences. Use this skill whenever you need a Support Responder specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "operations",
+                       "path":  "skills/support-responder/SKILL.md"
+                   },
+                   {
+                       "name":  "tax-strategist",
+                       "slug":  "tax-strategist",
+                       "description":  "Expert tax strategist specializing in tax optimization, multi-jurisdictional compliance, transfer pricing, and strategic tax planning. Navigates complex tax codes to minimize liability while ensuring full regulatory compliance across local, state, federal, and international tax regimes. Use this skill whenever you need a Tax Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "finance-legal",
+                       "path":  "skills/tax-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "techlead",
+                       "slug":  "techlead",
+                       "description":  "Engineering orchestrator for ALL software and infrastructure tasks. Coordinates architecture, frontend, backend, mobile, DevOps, cloud, security, spatial computing, and embedded systems. Use whenever a task involves writing, reviewing, or planning code — even if the user just says \u0027build me X\u0027 or \u0027fix this bug\u0027.",
+                       "category":  "orchestrator",
+                       "path":  "skills/techlead/SKILL.md"
+                   },
+                   {
+                       "name":  "technical-artist",
+                       "slug":  "technical-artist",
+                       "description":  "Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization Use this skill whenever you need a Technical Artist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "game-development",
+                       "path":  "skills/technical-artist/SKILL.md"
+                   },
+                   {
+                       "name":  "technical-writer",
+                       "slug":  "technical-writer",
+                       "description":  "Expert technical writer specializing in developer documentation, API references, README files, and tutorials. Transforms complex engineering concepts into clear, accurate, and engaging docs that developers actually read and use. Use this skill whenever you need a Technical Writer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/technical-writer/SKILL.md"
+                   },
+                   {
+                       "name":  "terminal-integration-specialist",
+                       "slug":  "terminal-integration-specialist",
+                       "description":  "Terminal emulation, text rendering optimization, and SwiftTerm integration for modern Swift applications Use this skill whenever you need a Terminal Integration Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/terminal-integration-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "test-results-analyzer",
+                       "slug":  "test-results-analyzer",
+                       "description":  "Expert test analysis specialist focused on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing activities Use this skill whenever you need a Test Results Analyzer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/test-results-analyzer/SKILL.md"
+                   },
+                   {
+                       "name":  "threat-detection-engineer",
+                       "slug":  "threat-detection-engineer",
+                       "description":  "Expert detection engineer specializing in SIEM rule development, MITRE ATT\u0026CK coverage mapping, threat hunting, alert tuning, and detection-as-code pipelines for security operations teams. Use this skill whenever you need a Threat Detection Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "qa-security",
+                       "path":  "skills/threat-detection-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "tiktok-strategist",
+                       "slug":  "tiktok-strategist",
+                       "description":  "Expert TikTok marketing specialist focused on viral content creation, algorithm optimization, and community building. Masters TikTok\u0027s unique culture and features for brand growth. Use this skill whenever you need a TikTok Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/tiktok-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "tool-evaluator",
+                       "slug":  "tool-evaluator",
+                       "description":  "Expert technology assessment specialist focused on evaluating, testing, and recommending tools, software, and platforms for business use and productivity optimization Use this skill whenever you need a Tool Evaluator specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/tool-evaluator/SKILL.md"
+                   },
+                   {
+                       "name":  "tracking-measurement-specialist",
+                       "slug":  "tracking-measurement-specialist",
+                       "description":  "Expert in conversion tracking architecture, tag management, and attribution modeling across Google Tag Manager, GA4, Google Ads, Meta CAPI, LinkedIn Insight Tag, and server-side implementations. Ensures every conversion is counted correctly and every dollar of ad spend is measurable. Use this skill whenever you need a Tracking \u0026 Measurement Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "paid-media",
+                       "path":  "skills/tracking-measurement-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "trend-researcher",
+                       "slug":  "trend-researcher",
+                       "description":  "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strategy and innovation decisions. Use this skill whenever you need a Trend Researcher specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/trend-researcher/SKILL.md"
+                   },
+                   {
+                       "name":  "twitter-engager",
+                       "slug":  "twitter-engager",
+                       "description":  "Expert Twitter marketing specialist focused on real-time engagement, thought leadership building, and community-driven growth. Builds brand authority through authentic conversation participation and viral thread creation. Use this skill whenever you need a Twitter Engager specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/twitter-engager/SKILL.md"
+                   },
+                   {
+                       "name":  "ui-designer",
+                       "slug":  "ui-designer",
+                       "description":  "Expert UI designer specializing in visual design systems, component libraries, and pixel-perfect interface creation. Creates beautiful, consistent, accessible user interfaces that enhance UX and reflect brand identity Use this skill whenever you need a UI Designer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/ui-designer/SKILL.md"
+                   },
+                   {
+                       "name":  "ux-architect",
+                       "slug":  "ux-architect",
+                       "description":  "Technical architecture and UX specialist who provides developers with solid foundations, CSS systems, and clear implementation guidance Use this skill whenever you need a UX Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/ux-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "ux-researcher",
+                       "slug":  "ux-researcher",
+                       "description":  "Expert user experience researcher specializing in user behavior analysis, usability testing, and data-driven design insights. Provides actionable research findings that improve product usability and user satisfaction Use this skill whenever you need a UX Researcher specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "product",
+                       "path":  "skills/ux-researcher/SKILL.md"
+                   },
+                   {
+                       "name":  "video-optimization-specialist",
+                       "slug":  "video-optimization-specialist",
+                       "description":  "Video marketing strategist specializing in YouTube algorithm optimization, audience retention, chaptering, thumbnail concepts, and cross-platform video syndication. Use this skill whenever you need a Video Optimization Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/video-optimization-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "visionos-spatial-engineer",
+                       "slug":  "visionos-spatial-engineer",
+                       "description":  "Native visionOS spatial computing, SwiftUI volumetric interfaces, and Liquid Glass design implementation Use this skill whenever you need a visionOS Spatial Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/visionos-spatial-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "visual-storyteller",
+                       "slug":  "visual-storyteller",
+                       "description":  "Expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. Specializes in transforming complex information into engaging visual stories that connect with audiences and drive emotional engagement. Use this skill whenever you need a Visual Storyteller specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/visual-storyteller/SKILL.md"
+                   },
+                   {
+                       "name":  "voice-ai-integration-engineer",
+                       "slug":  "voice-ai-integration-engineer",
+                       "description":  "Expert in building end-to-end speech transcription pipelines using Whisper-style models and cloud ASR services â€” from raw audio ingestion through preprocessing, transcript cleanup, subtitle generation, speaker diarization, and structured downstream integration into apps, APIs, and CMS platforms. Use this skill whenever you need a Voice AI Integration Engineer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/voice-ai-integration-engineer/SKILL.md"
+                   },
+                   {
+                       "name":  "wechat-mini-program-developer",
+                       "slug":  "wechat-mini-program-developer",
+                       "description":  "Expert WeChat Mini Program developer specializing in å°ç¨‹åº development with WXML/WXSS/WXS, WeChat API integration, payment systems, subscription messaging, and the full WeChat ecosystem. Use this skill whenever you need a WeChat Mini Program Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/wechat-mini-program-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "wechat-official-account-manager",
+                       "slug":  "wechat-official-account-manager",
+                       "description":  "Expert WeChat Official Account (OA) strategist specializing in content marketing, subscriber engagement, and conversion optimization. Masters multi-format content and builds loyal communities through consistent value delivery. Use this skill whenever you need a WeChat Official Account Manager specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/wechat-official-account-manager/SKILL.md"
+                   },
+                   {
+                       "name":  "weibo-strategist",
+                       "slug":  "weibo-strategist",
+                       "description":  "Full-spectrum operations expert for Sina Weibo, with deep expertise in trending topic mechanics, Super Topic community management, public sentiment monitoring, fan economy strategies, and Weibo advertising, helping brands achieve viral reach and sustained growth on China\u0027s leading public discourse platform. Use this skill whenever you need a Weibo Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/weibo-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "whimsy-injector",
+                       "slug":  "whimsy-injector",
+                       "description":  "Expert creative specialist focused on adding personality, delight, and playful elements to brand experiences. Creates memorable, joyful interactions that differentiate brands through unexpected moments of whimsy Use this skill whenever you need a Whimsy Injector specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/whimsy-injector/SKILL.md"
+                   },
+                   {
+                       "name":  "workflow-architect",
+                       "slug":  "workflow-architect",
+                       "description":  "Workflow design specialist who maps complete workflow trees for every system, user journey, and agent interaction â€” covering happy paths, all branch conditions, failure modes, recovery paths, handoff contracts, and observable states to produce build-ready specs that agents can implement against and QA can test against. Use this skill whenever you need a Workflow Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/workflow-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "workflow-optimizer",
+                       "slug":  "workflow-optimizer",
+                       "description":  "Expert process improvement specialist focused on analyzing, optimizing, and automating workflows across all business functions for maximum productivity and efficiency Use this skill whenever you need a Workflow Optimizer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/workflow-optimizer/SKILL.md"
+                   },
+                   {
+                       "name":  "xiaohongshu-specialist",
+                       "slug":  "xiaohongshu-specialist",
+                       "description":  "Expert Xiaohongshu marketing specialist focused on lifestyle content, trend-driven strategies, and authentic community engagement. Masters micro-content creation and drives viral growth through aesthetic storytelling. Use this skill whenever you need a Xiaohongshu Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/xiaohongshu-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "xr-cockpit-interaction-specialist",
+                       "slug":  "xr-cockpit-interaction-specialist",
+                       "description":  "Specialist in designing and developing immersive cockpit-based control systems for XR environments Use this skill whenever you need a XR Cockpit Interaction Specialist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/xr-cockpit-interaction-specialist/SKILL.md"
+                   },
+                   {
+                       "name":  "xr-immersive-developer",
+                       "slug":  "xr-immersive-developer",
+                       "description":  "Expert WebXR and immersive technology developer with specialization in browser-based AR/VR/XR applications Use this skill whenever you need a XR Immersive Developer specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/xr-immersive-developer/SKILL.md"
+                   },
+                   {
+                       "name":  "xr-interface-architect",
+                       "slug":  "xr-interface-architect",
+                       "description":  "Spatial interaction designer and interface strategist for immersive AR/VR/XR environments Use this skill whenever you need a XR Interface Architect specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "engineering",
+                       "path":  "skills/xr-interface-architect/SKILL.md"
+                   },
+                   {
+                       "name":  "zhihu-strategist",
+                       "slug":  "zhihu-strategist",
+                       "description":  "Expert Zhihu marketing specialist focused on thought leadership, community credibility, and knowledge-driven engagement. Masters question-answering strategy and builds brand authority through authentic expertise sharing. Use this skill whenever you need a Zhihu Strategist specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "marketing",
+                       "path":  "skills/zhihu-strategist/SKILL.md"
+                   },
+                   {
+                       "name":  "zk-steward",
+                       "slug":  "zk-steward",
+                       "description":  "Knowledge-base steward in the spirit of Niklas Luhmann\u0027s Zettelkasten. Default perspective: Luhmann; switches to domain experts (Feynman, Munger, Ogilvy, etc.) by task. Enforces atomic notes, connectivity, and validation loops. Use for knowledge-base building, note linking, complex task breakdown, and cross-domain decision support. Use this skill whenever you need a ZK Steward specialist — even if the user doesn\u0027t explicitly ask for one by name.",
+                       "category":  "specialized",
+                       "path":  "skills/zk-steward/SKILL.md"
+                   }
+               ]
+}
